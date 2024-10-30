@@ -4,14 +4,14 @@ Admin page
 
 Flight:
 
--add flight
--remove flight
--modify flight
--View flight details
--source airport
--destination
--departure time
--arrival time
+- add flight
+- remove flight
+- modify flight
+- View flight details
+- source airport
+- destination
+- departure time
+- arrival time
 
 Airline:
 
