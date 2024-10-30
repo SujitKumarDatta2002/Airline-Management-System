@@ -3,6 +3,7 @@
 Admin page
 
 Flight:
+
 -add flight
 -remove flight
 -modify flight
@@ -12,7 +13,7 @@ Flight:
 -departure time
 -arrival time
 
-airline:
+Airline:
 
 - name
 - maintenance cost
