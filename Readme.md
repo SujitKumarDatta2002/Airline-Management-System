@@ -1,16 +1,16 @@
--- give alert message using modal
+
 
 Admin page
 
 Flight:
-add flight
-remove flight
-modify flight
-view flight details
-source airport
-destination
-departure time
-arrival time
+-add flight
+-remove flight
+-modify flight
+-View flight details
+-source airport
+-destination
+-departure time
+-arrival time
 
 airline:
 
@@ -23,4 +23,4 @@ Finance:
 - Total income from ticket selling
 - Total cost of flight operations
 - Total profit
-- total no of ticket sale
+- total no of ticket sales
